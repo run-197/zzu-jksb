@@ -22,7 +22,7 @@
 
 所以尽量每隔两个月上线对仓库进行修改避免自动停用GitHub Actions。
 
-如果已经被停用可在**自己的仓库**选择Actions->jksb->enable重新启用。噢噢
+如果已经被停用可在**自己的仓库**选择Actions->jksb->enable重新启用。
 
 
 
@@ -32,3 +32,4 @@
 安装[pull插件][1]，选择**Only select repositories**并将此项目加入。
 
   [1]: https://github.com/apps/pull
+  噢
